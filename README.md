@@ -43,7 +43,7 @@
 
 <p align="center">
 <a href="www.linkedin.com/in/giuseppe-incurvati-641816318"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:g.incurvati.c@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:g.incurvati.c@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-g.incurvati.c@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
