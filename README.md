@@ -42,7 +42,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="www.linkedin.com/in/giuseppe-incurvati-641816318"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="www.linkedin.com/in/giuseppe-incurvati-641816318"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Giusp94%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
